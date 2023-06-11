@@ -1,4 +1,4 @@
-# Podstawy programowania w Nim
+# Podstawy programowania w języku Nim
 
 W niniejszym repozytorium znajduje się projekt podręcznika opisujący podstawy programowania w języku Nim.
 
