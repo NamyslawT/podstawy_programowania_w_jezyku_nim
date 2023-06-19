@@ -2,4 +2,4 @@
 
 W niniejszym repozytorium znajduje się projekt podręcznika opisującego podstawy programowania w języku Nim.
 
-Podręcznik jest tworzyny w systemie składu drukarskiego - LaTeX.
+Podręcznik jest tworzony w systemie składu drukarskiego - LaTeX.
