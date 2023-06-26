@@ -4,8 +4,11 @@ W niniejszym repozytorium znajduje się projekt podręcznika opisującego podsta
 
 Aktualny spis treści
 1 Wprowadzenie do języka Nim . . .  2
+
   1.1 Wstęp . . . . . . . . . . . . 2
+  
   1.2 Poznajmy Nima . . . . . . . . 2
+  
   1.3 Przygotowanie środowiska . .  4
   1.4 Kompilacja . . . . . . . . .  4
   1.5 Pierwszy program . . . . . .  6
