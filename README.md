@@ -1,14 +1,11 @@
 # Podstawy programowania w języku Nim
 
 W niniejszym repozytorium znajduje się projekt podręcznika opisującego podstawy programowania w języku Nim.
-
+```
 Aktualny spis treści
 1 Wprowadzenie do języka Nim . . .  2
-
   1.1 Wstęp . . . . . . . . . . . . 2
-  
   1.2 Poznajmy Nima . . . . . . . . 2
-  
   1.3 Przygotowanie środowiska . .  4
   1.4 Kompilacja . . . . . . . . .  4
   1.5 Pierwszy program . . . . . .  6
@@ -26,3 +23,4 @@ Aktualny spis treści
 7 Pętle . . . . . . . . . . . . .  32
   7.1 Pętla while . . . . . . . . .32
   7.2 Pętla for . . . . . . . . . .34
+```
