@@ -14,13 +14,14 @@ Aktualny spis treści
   2.2 Typy danych. . . . . . . . . . .  13
 3 Praca z tekstami. . . . . . . . . . . 15
 4 Instrukcje warunkowe. . . . . . . . . 19
-5 Moduły. . . . . . . . . . . . . . . . 24
-  5.1 Instalacja i import modułów . . . 24
-  5.2 Własne moduły . . . . . . . . . . 25
-6 Sekwencje i moduł sequtils  . . . . . 27
-  6.1 Sekwencje . . . . . . . . . . . . 27
-  6.2 Moduł sequtils. . . . . . . . . . 28
-7 Pętle . . . . . . . . . . . . . . . . 32
-  7.1 Pętla while. . . . . . . . . . . .32
-  7.2 Pętla for. . . . . . . . . . . . .34
+5 Funkcje . . . . . . . . . . . . . . . 24
+5 Moduły. . . . . . . . . . . . . . . . 26
+  5.1 Instalacja i import modułów . . . 26
+  5.2 Własne moduły . . . . . . . . . . 27
+6 Sekwencje i moduł sequtils  . . . . . 29
+  6.1 Sekwencje . . . . . . . . . . . . 29
+  6.2 Moduł sequtils. . . . . . . . . . 30
+7 Pętle . . . . . . . . . . . . . . . . 35
+  7.1 Pętla while. . . . . . . . . . . .35
+  7.2 Pętla for. . . . . . . . . . . . .37
 ```
