@@ -15,13 +15,13 @@ Aktualny spis treści
 3 Praca z tekstami. . . . . . . . . . . 15
 4 Instrukcje warunkowe. . . . . . . . . 19
 5 Funkcje . . . . . . . . . . . . . . . 24
-5 Moduły. . . . . . . . . . . . . . . . 26
-  5.1 Instalacja i import modułów . . . 26
-  5.2 Własne moduły . . . . . . . . . . 27
-6 Sekwencje i moduł sequtils  . . . . . 29
-  6.1 Sekwencje . . . . . . . . . . . . 29
-  6.2 Moduł sequtils. . . . . . . . . . 30
-7 Pętle . . . . . . . . . . . . . . . . 35
-  7.1 Pętla while. . . . . . . . . . . .35
-  7.2 Pętla for. . . . . . . . . . . . .37
+6 Moduły. . . . . . . . . . . . . . . . 26
+  6.1 Instalacja i import modułów . . . 26
+  6.2 Własne moduły . . . . . . . . . . 27
+7 Sekwencje i moduł sequtils  . . . . . 29
+  7.1 Sekwencje . . . . . . . . . . . . 29
+  7.2 Moduł sequtils. . . . . . . . . . 30
+8 Pętle . . . . . . . . . . . . . . . . 35
+  8.1 Pętla while. . . . . . . . . . . .35
+  8.2 Pętla for. . . . . . . . . . . . .37
 ```
