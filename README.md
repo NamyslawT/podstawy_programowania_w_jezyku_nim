@@ -24,4 +24,5 @@ Aktualny spis treści
 8 Pętle . . . . . . . . . . . . . . . . 35
   8.1 Pętla while. . . . . . . . . . . .35
   8.2 Pętla for. . . . . . . . . . . . .37
+9 Tablice . . . . . . . . . . . . . . . 39
 ```
