@@ -17,15 +17,15 @@ Aktualny spis treści
 5  Funkcje . . . . . . . . . . . . . . . 23
 6  Moduły. . . . . . . . . . . . . . . . 25
    6.1 Instalacja i import modułów . . . 25
-   6.2 Własne moduły . . . . . . . . . . 26
-7  Sekwencje i moduł sequtils  . . . . . 28
-   7.1 Sekwencje . . . . . . . . . . . . 28
-   7.2 Moduł sequtils. . . . . . . . . . 29
-8  Pętle . . . . . . . . . . . . . . . . 34
-   8.1 Pętla while. . . . . . . . . . . .34
-   8.2 Pętla for. . . . . . . . . . . . .36
-9  Tablice . . . . . . . . . . . . . . . 38
-10 Praca z plikami tekstowymi. . . . . . 42
-   10.1 Odczyt danych z pliku. . . . . . 42
-   10.2 Zapis danych do pliku. . . . . . 44
+   6.2 Własne moduły . . . . . . . . . . 27
+7  Sekwencje i moduł sequtils  . . . . . 29
+   7.1 Sekwencje . . . . . . . . . . . . 29
+   7.2 Moduł sequtils. . . . . . . . . . 30
+8  Pętle . . . . . . . . . . . . . . . . 35
+   8.1 Pętla while. . . . . . . . . . . .35
+   8.2 Pętla for. . . . . . . . . . . . .37
+9  Tablice . . . . . . . . . . . . . . . 39
+10 Praca z plikami tekstowymi. . . . . . 43
+   10.1 Odczyt danych z pliku. . . . . . 43
+   10.2 Zapis danych do pliku. . . . . . 45
 ```
