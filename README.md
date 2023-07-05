@@ -25,7 +25,8 @@ Aktualny spis treści
    8.1 Pętla while. . . . . . . . . . . .35
    8.2 Pętla for. . . . . . . . . . . . .37
 9  Tablice . . . . . . . . . . . . . . . 39
-10 Praca z plikami tekstowymi. . . . . . 43
-   10.1 Odczyt danych z pliku. . . . . . 43
-   10.2 Zapis danych do pliku. . . . . . 45
+10 Tuple . . . . . . . . . . . . . . . . 43
+11 Praca z plikami tekstowymi. . . . . . 45
+   10.1 Odczyt danych z pliku. . . . . . 45
+   10.2 Zapis danych do pliku. . . . . . 47
 ```
