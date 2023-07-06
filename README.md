@@ -26,7 +26,8 @@ Aktualny spis treści
    8.2 Pętla for. . . . . . . . . . . . .37
 9  Tablice . . . . . . . . . . . . . . . 39
 10 Tuple . . . . . . . . . . . . . . . . 43
-11 Praca z plikami tekstowymi. . . . . . 45
-   10.1 Odczyt danych z pliku. . . . . . 45
-   10.2 Zapis danych do pliku. . . . . . 47
+11 Niestandardowe typy danych. . . . . . 46
+12 Praca z plikami tekstowymi. . . . . . 47
+   10.1 Odczyt danych z pliku. . . . . . 47
+   10.2 Zapis danych do pliku. . . . . . 49
 ```
