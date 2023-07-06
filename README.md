@@ -27,7 +27,7 @@ Aktualny spis treści
 9  Tablice . . . . . . . . . . . . . . . 39
 10 Tuple . . . . . . . . . . . . . . . . 43
 11 Niestandardowe typy danych. . . . . . 46
-12 Praca z plikami tekstowymi. . . . . . 47
-   10.1 Odczyt danych z pliku. . . . . . 47
-   10.2 Zapis danych do pliku. . . . . . 49
+12 Praca z plikami tekstowymi. . . . . . 48
+   10.1 Odczyt danych z pliku. . . . . . 48
+   10.2 Zapis danych do pliku. . . . . . 50
 ```
