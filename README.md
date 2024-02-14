@@ -9,27 +9,32 @@ Aktualny spis treści
    1.3 Przygotowanie środowiska . . . . . 4
    1.4 Kompilacja . . . . . . . . . . . . 4
    1.5 Pierwszy program . . . . . . . . . 6
-2  Zmienne, stałe i typy danych. . . . . 10
-   2.1 Zmienne i stałe. . . . . . . . .  10
-   2.2 Typy danych. . . . . . . . . . .  12
-3  Praca z tekstami. . . . . . . . . . . 14
-4  Instrukcje warunkowe. . . . . . . . . 18
-5  Funkcje . . . . . . . . . . . . . . . 23
-6  Moduły. . . . . . . . . . . . . . . . 25
-   6.1 Instalacja i import modułów . . . 25
-   6.2 Własne moduły . . . . . . . . . . 27
-7  Sekwencje i moduł sequtils  . . . . . 29
-   7.1 Sekwencje . . . . . . . . . . . . 29
-   7.2 Moduł sequtils. . . . . . . . . . 30
-8  Pętle . . . . . . . . . . . . . . . . 35
-   8.1 Pętla while. . . . . . . . . . . .35
-   8.2 Pętla for. . . . . . . . . . . . .37
-9  Tablice . . . . . . . . . . . . . . . 39
-10 Tuple . . . . . . . . . . . . . . . . 43
-11 Niestandardowe typy danych. . . . . . 46
-12 Pseudolosowość. . . . . . . . . . . . 47
-13 Obiekty . . . . . . . . . . . . . . . 50
-14 Praca z plikami tekstowymi. . . . . . 53
-   14.1 Odczyt danych z pliku. . . . . . 53
-   14.2 Zapis danych do pliku. . . . . . 55
+2  Zmienne, stałe i typy danych . . . . . 9
+   2.1 Zmienne i stałe . . . . . . . . .  9
+   2.2 Typy danych. . . . . . . . . . .  11
+3  Wprowadzanie danych przez użytkownika 13
+4  Praca z tekstami. . . . . . . . . . . 15
+5  Instrukcje warunkowe. . . . . . . . . 19
+6  Funkcje . . . . . . . . . . . . . . . 23
+7  Moduły. . . . . . . . . . . . . . . . 25
+   7.1 Instalacja i import modułów . . . 25
+   7.2 Własne moduły . . . . . . . . . . 26
+8  Sekwencje i moduł sequtils  . . . . . 28
+   8.1 Sekwencje . . . . . . . . . . . . 28
+   8.2 Moduł sequtils. . . . . . . . . . 29
+9  Pętle . . . . . . . . . . . . . . . . 33
+   9.1 Pętla while . . . . . . . . . . . 33
+   9.2 Pętla for . . . . . . . . . . . . 34
+10 Tablice . . . . . . . . . . . . . . . 37
+11 Tuple . . . . . . . . . . . . . . . . 40
+12 Zbiory i moduł sets . . . . . . . . . 42
+   12.1 Zbiory . . . . . . . . . . . . . 42
+   12.2 Moduł sets . . . . . . . . . . . 44
+13 Niestandardowe typy danych. . . . . . 47
+14 Wyliczenia (enums). . . . . . . . . . 48
+15 Pseudolosowość. . . . . . . . . . . . 49
+16 Obiekty . . . . . . . . . . . . . . . 52
+17 Praca z plikami tekstowymi. . . . . . 55
+   17.1 Odczyt danych z pliku. . . . . . 55
+   17.2 Zapis danych do pliku. . . . . . 56
 ```
